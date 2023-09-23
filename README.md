@@ -19,3 +19,5 @@
 - Don't expect to understand all 100% material covered immediately.
 - Get in a habit of coming back to lecture recording/notes, working examples when working on new problems
 - Ask questions (during lectures, ARs)
+
+### Tools
